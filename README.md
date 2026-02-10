@@ -22,11 +22,13 @@ Generates up to **1,000 promo codes per second**.
 
 ## 🖥️ Preview
 
+```txt
 [+] Initializing generator...
 [+] Generating Nitro Promo Codes...
 [+] Speed: 1000 codes/sec
 [+] Status: UNCHECKED
-[+] Output saved to: nitro_codes.txt 
+[+] Output saved to: nitro_codes.txt
+```
 
 # ⚠️ DISCLAIMER
 
@@ -46,8 +48,10 @@ Generates up to **1,000 promo codes per second**.
 
 ### 🔽 Clone the repository
 
+```bash
 git clone <repo-url>
 cd nitro-promo-gen
+```
 
 ---
 
