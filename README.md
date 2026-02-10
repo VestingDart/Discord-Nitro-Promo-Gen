@@ -53,6 +53,12 @@ git clone <repo-url>
 cd nitro-promo-gen
 ```
 
+### ▶️ Run the generator
+
+```bash
+python main.py
+```
+
 ---
 
 # ⭐ SUPPORT
