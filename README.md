@@ -16,6 +16,7 @@ Generates up to **1,000 promo codes per second**.
 - ⚡ Ultra-fast generation speed  
 - 🖤 Minimalistic & efficient  
 - 💻 Terminal-friendly  
+- 📄 Saves generated codes to `Promo-Codes.txt`  
 - 🔥 Lightweight & fast  
 
 ---
@@ -27,7 +28,7 @@ Generates up to **1,000 promo codes per second**.
 [+] Generating Nitro Promo Codes...
 [+] Speed: 1000 codes/sec
 [+] Status: UNCHECKED
-[+] Output saved to: nitro_codes.txt
+[+] Output saved to: Promo-Codes.txt
 ```
 
 # ⚠️ DISCLAIMER
@@ -50,13 +51,13 @@ Generates up to **1,000 promo codes per second**.
 
 ```bash
 git clone <repo-url>
-cd nitro-promo-gen
+cd Nitro-Gen
 ```
 
 ### ▶️ Run the generator
 
 ```bash
-python main.py
+python nitro-bot.py
 ```
 
 ---
